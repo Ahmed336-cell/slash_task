@@ -47,7 +47,7 @@ Clean Architecture: Implements Clean Arch
 
 ## Screenshots
 
-![homepage Screenshot](https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepage.png)
+![homepage Screenshot](https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepage.png){: width="50%" height="50%"}
 
 
 ![homepage Screenshot](https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepageloved.png)

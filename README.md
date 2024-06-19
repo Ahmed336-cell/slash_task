@@ -4,7 +4,7 @@ Slash E-Commerce App
 
 ## Documentation
 
-Slash is an elegant e-commerce app built using Flutter, designed to offer users a seamless browsing experience for Local Brands products. With a focus on local Brands product browsing, detailed product information, captivating animations, and responsive design, Slash sets a new standard for online shopping.
+Slash is an elegant e-commerce app built using Flutter, designed to offer users a seamless browsing experience for Local Brands' products. With a focus on local Brand product browsing, detailed product information, captivating animations, and responsive design, Slash sets a new standard for online shopping.
 
 
 ## Installation
@@ -32,9 +32,9 @@ flutter run
 
 Product Catalog: Explore a diverse range of products conveniently categorized for easy navigation.
 
-Cart page : when add a product in cart page you found all products that added and total price is appear
+Cart page: when adding a product to the cart page you find all products that were added and the total price appears
 
-Favourite Page : you can add favourite product in favourite page due to favourtie icon
+Favorite Page: you can add your favorite product in your favorite page due to the favorite icon
 
 Animations: Enjoy smooth and elegant animations throughout the app, enhancing the user experience.
 
@@ -47,14 +47,15 @@ Clean Architecture: Implements Clean Arch
 
 ## Screenshots
 
-<img src="https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepage.png" width="50%" height="50%">
+<img src="https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepage.png" width="40%" height="40%">
 
 
-![homepage Screenshot](https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepageloved.png)
+<img src="https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/homepageloved.png" width="40%" height="40%">
 
-![favouritepage Screenshot](https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/favouritepage.png)
+<img src="https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/favouritepage.png" width="40%" height="40%">
 
-![cartpage Screenshot](https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/cartpage.png)
+<img src="https://github.com/Ahmed336-cell/slash_task/blob/main/slash_task/cartpage.png" width="40%" height="40%">
+
 
 
 ## Youtube Video
